@@ -1,6 +1,3 @@
-Perfect 👍 I’ll give you a ready-to-paste README.md file.
-Just copy this into a file named README.md inside your project folder.
-
 # ⚓ Maritime RAG Pipeline
 
 ## 🚀 Project Overview
