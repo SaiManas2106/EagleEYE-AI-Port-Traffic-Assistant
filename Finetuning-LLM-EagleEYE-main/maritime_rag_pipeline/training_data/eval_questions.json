@@ -1,0 +1,21 @@
+[
+    {
+        "query": "How many vessels arrived at Klaipėda on 2021-01-10?",
+        "port": "KLAIPĖDA",
+        "date": "2021-01-10",
+        "expected": null
+    },
+    {
+        "query": "How many tanker vessels arrived at Ventspils on 2021-03-15?",
+        "port": "VENTSPILS",
+        "date": "2021-03-15",
+        "vessel_type": "TANKER",
+        "expected": null
+    },
+    {
+        "query": "List the vessel types that arrived at Rauma on 2021-01-01.",
+        "port": "RAUMA",
+        "date": "2021-01-01",
+        "expected": null
+    }
+]

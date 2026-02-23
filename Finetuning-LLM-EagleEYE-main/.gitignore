@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter / OS
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# HuggingFace / caches
+.cache/
+hf_cache/
+transformers_cache/
+
+# Generated vector DBs (keep vector_db_small if you want a demo)
+maritime_rag_pipeline/vector_db/
+maritime_rag_pipeline/vector_db/*.faiss
+maritime_rag_pipeline/vector_db/*.pkl
+
+# Training outputs
+maritime_rag_pipeline/training_data/qlora-adapter/
+maritime_rag_pipeline/training_data/checkpoints/
+
+# Logs
+*.log
